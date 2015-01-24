@@ -1,7 +1,8 @@
 # 1GFileTransmit
 # 1GFileTransmit 网络程序设计考核：1G文件传输（客户端上传文件到服务器）
 
-学号：sa14226272          姓名：黄道旺
+学号：sa14226272    
+姓名：黄道旺
 
 版本如下：
 version 1：UDPTransmit    UDP传输比较简单
